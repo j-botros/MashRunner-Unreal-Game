@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/jobo/Documents/Unreal Projects/MashRunner/Content/Maps/MAP_Debug.umap",
+				"/Users/jobo/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Background/T_Field.uasset",
+				"/Users/jobo/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Goal/T_Goal_Ripped.uasset",
+				"/Users/jobo/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Goal/T_Goal_Connected.uasset",
+				"/Users/jobo/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Runner/T_Runner.uasset",
+				"/Users/jobo/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Background/T_Field_Sprite.uasset",
+				"/Users/jobo/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Goal/T_Goal_Connected_Sprite.uasset",
+				"/Users/jobo/Documents/Unreal Projects/MashRunner/Content/PaperAssets/Goal/T_Goal_Ripped_Sprite.uasset"
+			]
+		}
+	]
+}
